@@ -46,10 +46,10 @@ pip install psutil termcolor
     
 3. Run the script with Python:
     
-    ```bash
-    cd network-information-viewer-with-python
-    python network_info.py
-    ```
+```bash
+cd network-information-viewer-with-python
+python network_info.py
+```
     
 ## Compatibility
 
