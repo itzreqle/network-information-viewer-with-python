@@ -28,7 +28,6 @@ Clone this repository to your local machine using the following `git` command:
 
 ```bash
 git clone https://github.com/itzreqle/network-information-viewer-with-python.git
-cd network-information-viewer-with-python
 ```
 
 ### Dependencies
@@ -48,6 +47,7 @@ pip install psutil termcolor
 3. Run the script with Python:
     
     ```bash
+    cd network-information-viewer-with-python
     python network_info.py
     ```
     
