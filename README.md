@@ -28,6 +28,7 @@ Clone this repository to your local machine using the following `git` command:
 
 ```bash
 git clone https://github.com/itzreqle/network-information-viewer-with-python.git
+cd network-information-viewer-with-python
 ```
 
 ### Dependencies
