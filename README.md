@@ -20,10 +20,6 @@ The script performs the following steps:
 
 ## Installation
 
-Follow these steps to install and run the script:
-
-### Prerequisites
-
 Make sure you have Python installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
 
 ### Clone the Repository
